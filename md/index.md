@@ -1,8 +1,8 @@
-# Chatbot Notes
+# Chatbot Projekt
 
-### how to edit
-
-[follow this link for an intro on editing markdown](howto.md)
+:::important
+nächster Termin: 9. April 11:00
+:::
 
 ### aktuell
 
@@ -12,8 +12,14 @@
 ### Protokolle
 [erstes Treffen](protokoll/Treffen01)  
 
-### Ressourcensammlung
+### Ressourcen
 
 [Artikel t3n zu Chatbots](https://drive.google.com/file/d/1x8BuAEbj8uXh2bs88FiGuoiBvpE5S_mf/view)  
 [weitere Artikel bei t3n zum Thema](https://t3n.de/tag/chatbot/)  
 [SCRUM-Sammlung](scrum)  
+
+### beitragen
+
+[dieses Dokument bearbeiten](howto)  
+Ressourcen einfügen
+

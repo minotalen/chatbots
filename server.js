@@ -3,7 +3,13 @@ const app = express();
 const fs = require('fs').promises;
 const MarkdownIt = require('markdown-it');
 
-const md = new MarkdownIt({ html: true });
+var md = new MarkdownIt({ html: true }).use(
+  require('markdown-it-inline-comments')
+  );
+
+md = md.use(require('markdown-it-mark'));
+
+md = md.use(require('markdown-it-container'), 'important');
 
 const templatePath = './views/index.html';
 
