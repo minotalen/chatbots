@@ -19,22 +19,30 @@
   </head>
   <!-- Dark Mode Button WIP -->
   <body>
+    
     <div class="theme-switch-wrapper">
-      <a href="/" class="indexlink"> Chatbots Index </a>
-      &emsp; &emsp;
-      <label class="theme-switch" for="checkbox">
-          <input type="checkbox" id="checkbox"/>
-          <div class="slider round"></div>
-      </label>
-      <em>&nbsp; dark/light</em>
+      <a href="/" class="desktop indexlink"> ☰ Chatbots </a>
+      <a href="/" class="mobile indexlink"> ☰ </a>
+      <div class="crumbs indexlink"> </div>
+      <div>
+        <button onclick="growText()" class="sizeButton">+</button>
+        <button onclick="shrinkText()" class="sizeButton">-</button>
+        <label class="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox"/>
+            <div class="slider round"></div>
+        </label>
+      </div>
+      
     </div>
     
     
     
     <main><!-- RENDERED CONTENT --></main>
 
-    <footer>Chatbot Projekt Sommer'semester' 2020 &emsp; &emsp; <a href="/" class="indexlink">back to index ⮢</a> &emsp; &emsp;  <a href="/howto" class="indexlink">how to contribute ¶</a></footer>
-
+    <footer class="desktop"> Chatbot Projekt Sommer'semester' 2020 <a href="/" class="indexlink back">back to index ⮢</a> <a href="/howto" class="indexlink">how to contribute ¶</a>
+    </footer>
+    <footer class="mobile"> Chatbot Projekt 2020 <a href="/" class="indexlink back">index ⮢</a> <a href="/howto" class="indexlink">help ¶</a>
+    </footer>
     <!-- include the Glitch button to show what the webpage is about and
           to make it easier for folks to view source and remix -->
 <!--     <div class="glitchButton" style="position:fixed;top:2em;right:20px;"></div>

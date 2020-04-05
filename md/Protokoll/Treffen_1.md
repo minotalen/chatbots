@@ -1,3 +1,5 @@
+# Protokoll vom ersten Treffen
+
 ### Idee Projekt
 
 * 18CP -> 540 Wochenstunden
@@ -15,7 +17,7 @@
   
 ### Administrativa
 
-* vollzeit
+* Vollzeit
 * agiles vorgehen (SCRUM)
 * selbstverwaltet
 * regelmäßige online meetings / standups
@@ -87,5 +89,5 @@ Zwischenevaluation nach der Hälfte der Zeit.
   
 ### nächstes Treffen, Aufgaben
 
-  * nächsten Donnerstag 11h nächstes Meeting
+  * nächsten ==Donnerstag 11h== nächstes Meeting
   * Aufgabe bis dann ist das Entwickeln einer Projektidee, diese sammeln wir in einem gemeinsamen Google Doc (siehe Index für Link)

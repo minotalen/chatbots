@@ -210,18 +210,18 @@ Nichts behindert den Fortschritt mehr als das Fehlen eines funktionierenden Prot
 
 Die Designer werden oft dadurch eingeschränkt, dass sie wenig Kontrolle über die erstellten Tools haben.
 Das liegt meist daran, dass die Programmierer, die ja die diese Tools entwickeln von den Einschränkungen selber nicht betroffen sind.  
-Wenn die Programmierer im engen Kontakt mit den Designern sind haben sie ein besseres Bewusstesein über die Bedürfnisse ebendieser und können so besser Prioritäten setzen.
+Wenn die Programmierer im engen Kontakt mit den Designern sind haben sie ein besseres Bewusstsein über die Bedürfnisse der Designer und können so besser Prioritäten setzen.
 
 ## Kanban
 
 [super Erklärung](https://www.atlassian.com/de/agile/kanban/boards)
 
-Tools zum Testen: Trello, Asana (free 4 students), Factro, Monday
+Tools zum Testen: Trello, Asana (free 4 students), Factro, Monday, GitLab
 
 
 ### Literatur/Quellen
 
 [SCRUM Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-German.pdf)  
 [SCRUM for Dummies (eng)](https://libgen.is/book/index.php?md5=A9E4CF86EC0E50BC26F391D48A786BDD)  
-[SCRUM for art stuff](https://blog.agilegamedevelopment.com/2008/12/scrum-for-artists.html)
+[SCRUM for art stuff](https://blog.agilegamedevelopment.com/2008/12/scrum-for-artists.html)  
 [visuelle Erklärung von SCRUM-Begriffen](https://www.agilelearninglabs.com/2011/12/elizabeth-mcclellan-an-artists-interpretation-of-scrum/)

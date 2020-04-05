@@ -8,8 +8,8 @@ var md = new MarkdownIt({ html: true }).use(
   );
 
 md = md.use(require('markdown-it-mark'));
-
 md = md.use(require('markdown-it-container'), 'important');
+md = md.use(require('markdown-it-smartarrows'));
 
 const templatePath = './views/index.html';
 
