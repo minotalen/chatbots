@@ -7,9 +7,11 @@
 * [an idiot's guide to discord bots](https://anidiots.guide/)
 * [interaktiver Glitch Guide](https://starter-discord.glitch.me/)
 
-
+### weitere
 * [Amazon Lex](https://docs.aws.amazon.com/de_de/lex/latest/dg/what-is.html)
 
+### Python
+* [Überblick/Cheat Sheet](Python)
 
 ## Tools/Versionskontrolle
 

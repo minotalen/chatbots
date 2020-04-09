@@ -8,3 +8,4 @@ Changelog:
 * 0404: added some images to howto, responsive footer with flex, title is set to value of first h1
 * 0504: added breadcrumb, made top bar flex too, added +/- buttons for variable text size
 * 0604: hotkeys added: try `+` `-` and `d`, better mobile layout
+* 0904: serve files in /views/Twine, serve folder index
