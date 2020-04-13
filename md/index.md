@@ -30,6 +30,3 @@ Fr 17.04. 11h mit Nina und Rainer
 ### beitragen
 
 [dieses Dokument bearbeiten](howto)
-
-
-<!-- [Umfrage Verfügbarkeit und Interessen](https://docs.google.com/forms/d/e/1FAIpQLSdAJpVUdNgwOOEEEtxxeTn_oIskPllzoQBWEyAeUrNdsjNr0Q/viewform)   -->

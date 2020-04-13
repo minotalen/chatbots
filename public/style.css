@@ -7,6 +7,8 @@
     --bg-color: #161625;
     --heading-color: #818cab;
     --font-size:100%;
+    --summary-color: #818cab25;
+    --details-color: #818cab11;
 }
 
 [data-theme="light"] {
@@ -15,6 +17,9 @@
     --font-color: #424242;
     --bg-color: #fff;
     --heading-color: #292922;
+    --summary-color: #373fff25;
+    --details-color: #373fff11;
+
 }
 
 * {
@@ -36,10 +41,20 @@ body {
   font-family: sans-serif;
   margin: 0 auto;
   font-size: var(--font-size);
-/*   margin: 0 5%; */
   line-height: 1.5em;
   max-width: min(100ch, 75%);
   background-color: var(--bg-color);
+  color: var(--font-color);
+}
+
+summary {
+  font-size: 1.2em;
+  background-color: var(--summary-color);  
+  color: var(--primary-color);
+}
+
+details {
+  background-color: var(--details-color);  
   color: var(--font-color);
 }
 
@@ -89,7 +104,8 @@ a:visited {
 
 @media (max-width: 1000px) {
   body{
-    margin: 0 3%;
+   max-width: min(100ch, 90%);
+
   }
   .mobile { display: flex; }
   .desktop { display: none; }

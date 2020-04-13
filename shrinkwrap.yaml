@@ -1,11 +1,42 @@
 dependencies:
+  ejs: 3.0.2
   express: 4.17.1
   markdown-it: 10.0.0
   markdown-it-container: 2.0.0
   markdown-it-inline-comments: 1.0.1
   markdown-it-mark: 3.0.0
   markdown-it-smartarrows: 1.0.1
+  node-add-to-calendar: 1.0.2
+  path: 0.12.7
+  serve-index: 1.9.1
 packages:
+  /@hapi/address/2.1.4:
+    dev: false
+    resolution:
+      integrity: sha512-QD1PhQk+s31P1ixsX0H0Suoupp3VMXzIVMSwobR3F3MSUO2YCV0B7xqLcUw/Bh8yuvd3LhpyqLQWTNcRmp6IdQ==
+  /@hapi/bourne/1.3.2:
+    dev: false
+    resolution:
+      integrity: sha512-1dVNHT76Uu5N3eJNTYcvxee+jzX4Z9lfciqRRHCU27ihbUcYi+iSc2iml5Ke1LXe1SyJCLA0+14Jh4tXJgOppA==
+  /@hapi/hoek/8.5.1:
+    dev: false
+    resolution:
+      integrity: sha512-yN7kbciD87WzLGc5539Tn0sApjyiGHAJgKvG9W8C7O+6c7qmoQMfVs0W4bX17eqz6C78QJqqFrtgdK5EWf6Qow==
+  /@hapi/joi/15.1.1:
+    dependencies:
+      '@hapi/address': 2.1.4
+      '@hapi/bourne': 1.3.2
+      '@hapi/hoek': 8.5.1
+      '@hapi/topo': 3.1.6
+    dev: false
+    resolution:
+      integrity: sha512-entf8ZMOK8sc+8YfeOlM8pCfg3b5+WZIKBfUaaJT8UsjAAPjartzxIYm3TIbjvA4u+u++KbcXD38k682nVHDAQ==
+  /@hapi/topo/3.1.6:
+    dependencies:
+      '@hapi/hoek': 8.5.1
+    dev: false
+    resolution:
+      integrity: sha512-tAag0jEcjwH+P2quUfipd7liWCNX2F8NvYjQp2wtInsZxnMlypdw0FtAOLxtvvkO+GSRRbmNi8m/5y42PQJYCQ==
   /accepts/1.3.7:
     dependencies:
       mime-types: 2.1.25
@@ -25,6 +56,10 @@ packages:
     dev: false
     resolution:
       integrity: sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
+  /batch/0.6.1:
+    dev: false
+    resolution:
+      integrity: sha1-3DQxT05nkxgJP8dgJyUl+UvyXBY=
   /body-parser/1.19.0:
     dependencies:
       bytes: 3.1.0
@@ -92,6 +127,13 @@ packages:
     dev: false
     resolution:
       integrity: sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
+  /ejs/3.0.2:
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    requiresBuild: true
+    resolution:
+      integrity: sha512-IncmUpn1yN84hy2shb0POJ80FWrfGNY0cxO9f4v+/sG7qcBvAtVWUA1IdzY/8EYUmOVhoKJVdJjNd3AZcnxOjA==
   /encodeurl/1.0.2:
     dev: false
     engines:
@@ -175,6 +217,17 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
+  /http-errors/1.6.3:
+    dependencies:
+      depd: 1.1.2
+      inherits: 2.0.3
+      setprototypeof: 1.1.0
+      statuses: 1.5.0
+    dev: false
+    engines:
+      node: '>= 0.6'
+    resolution:
+      integrity: sha1-i1VoC7S+KDoLW/TqLjhYC+HZMg0=
   /http-errors/1.7.2:
     dependencies:
       depd: 1.1.2
@@ -207,6 +260,15 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA==
+  /ics/2.19.0:
+    dependencies:
+      '@hapi/joi': 15.1.1
+      lodash: 4.17.15
+      moment: 2.24.0
+      uuid: 3.4.0
+    dev: false
+    resolution:
+      integrity: sha512-5zNEg0CXXpTD+lTguIwQP9FQSLhH4GPprqUuj0/Cql9hTBIdj7md/azNiPbefppjpkpJ9Dp7y0GgCgueD2wu3w==
   /inherits/2.0.3:
     dev: false
     resolution:
@@ -227,6 +289,10 @@ packages:
     dev: false
     resolution:
       integrity: sha512-GnAl/knGn+i1U/wjBz3akz2stz+HrHLsxMwHQGofCDfPvlf+gDKN58UtfmUquTY4/MXeE2x7k19KQmeoZi94Iw==
+  /lodash/4.17.15:
+    dev: false
+    resolution:
+      integrity: sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
   /markdown-it-container/2.0.0:
     dev: false
     resolution:
@@ -280,6 +346,12 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha512-UbfJCR4UAVRNgMpfImz05smAXK7+c+ZntjaA26ANtkXLlOe947Aag5zdIcKQULAiF9Cq4WxBi9jUs5zkA84bYQ==
+  /mime-db/1.43.0:
+    dev: false
+    engines:
+      node: '>= 0.6'
+    resolution:
+      integrity: sha512-+5dsGEEovYbT8UY9yD7eE4XTc4UwJ1jBYlgaQQF38ENsKR3wj/8q8RFZrF9WIZpB2V1ArTVFUva8sAul1NzRzQ==
   /mime-types/2.1.25:
     dependencies:
       mime-db: 1.42.0
@@ -288,6 +360,14 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha512-5KhStqB5xpTAeGqKBAMgwaYMnQik7teQN4IAzC7npDv6kzeU6prfkR67bc87J1kWMPGkoaZSq1npmexMgkmEVg==
+  /mime-types/2.1.26:
+    dependencies:
+      mime-db: 1.43.0
+    dev: false
+    engines:
+      node: '>= 0.6'
+    resolution:
+      integrity: sha512-01paPWYgLrkqAyrlDorC1uDwl2p3qZT7yl806vW7DvDoxwXi46jsjFbg+WdwotBIk6/MbEhO/dh5aZ5sNj/dWQ==
   /mime/1.6.0:
     dev: false
     engines:
@@ -295,6 +375,10 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==
+  /moment/2.24.0:
+    dev: false
+    resolution:
+      integrity: sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
   /ms/2.0.0:
     dev: false
     resolution:
@@ -309,6 +393,13 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==
+  /node-add-to-calendar/1.0.2:
+    dependencies:
+      ics: 2.19.0
+      moment: 2.24.0
+    dev: false
+    resolution:
+      integrity: sha512-B/fykgrjNeoZ97ICi+lPa82lvI1Oinz0XzOTsQyxRO5OiridoabsWJn4J/zamEUENjkFCrYlQ7xMiEFFJ0KR2g==
   /on-finished/2.3.0:
     dependencies:
       ee-first: 1.1.1
@@ -327,6 +418,19 @@ packages:
     dev: false
     resolution:
       integrity: sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=
+  /path/0.12.7:
+    dependencies:
+      process: 0.11.10
+      util: 0.10.4
+    dev: false
+    resolution:
+      integrity: sha1-1NwqUGxM4hl+tIHr/NWzbAFAsQ8=
+  /process/0.11.10:
+    dev: false
+    engines:
+      node: '>= 0.6.0'
+    resolution:
+      integrity: sha1-czIwDoQBYb2j5podHZGn1LwW8YI=
   /proxy-addr/2.0.5:
     dependencies:
       forwarded: 0.1.2
@@ -387,6 +491,20 @@ packages:
       node: '>= 0.8.0'
     resolution:
       integrity: sha512-BsVKsiGcQMFwT8UxypobUKyv7irCNRHk1T0G680vk88yf6LBByGcZJOTJCrTP2xVN6yI+XjPJcNuE3V4fT9sAg==
+  /serve-index/1.9.1:
+    dependencies:
+      accepts: 1.3.7
+      batch: 0.6.1
+      debug: 2.6.9
+      escape-html: 1.0.3
+      http-errors: 1.6.3
+      mime-types: 2.1.26
+      parseurl: 1.3.3
+    dev: false
+    engines:
+      node: '>= 0.8.0'
+    resolution:
+      integrity: sha1-03aNabHn2C5c4FD/9bRTvqEqkjk=
   /serve-static/1.14.1:
     dependencies:
       encodeurl: 1.0.2
@@ -398,6 +516,10 @@ packages:
       node: '>= 0.8.0'
     resolution:
       integrity: sha512-JMrvUwE54emCYWlTI+hGrGv5I8dEwmco/00EvkzIIsR7MqrHonbD9pO2MOfFnpFntl7ecpZs+3mW+XbQZu9QCg==
+  /setprototypeof/1.1.0:
+    dev: false
+    resolution:
+      integrity: sha512-BvE/TwpZX4FXExxOxZyRGQQv651MSwmWKZGqvmPcRIjDqWub67kTKuIMx43cZZrS/cBBzwBcNDWoFxt2XEFIpQ==
   /setprototypeof/1.1.1:
     dev: false
     resolution:
@@ -437,12 +559,23 @@ packages:
       node: '>= 0.8'
     resolution:
       integrity: sha1-sr9O6FFKrmFltIF4KdIbLvSZBOw=
+  /util/0.10.4:
+    dependencies:
+      inherits: 2.0.3
+    dev: false
+    resolution:
+      integrity: sha512-0Pm9hTQ3se5ll1XihRic3FDIku70C+iHUdT/W926rSgHV5QgXsYbKZN8MSC3tJtSkhuROzvsQjAaFENRXr+19A==
   /utils-merge/1.0.1:
     dev: false
     engines:
       node: '>= 0.4.0'
     resolution:
       integrity: sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
+  /uuid/3.4.0:
+    dev: false
+    hasBin: true
+    resolution:
+      integrity: sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
   /vary/1.1.2:
     dev: false
     engines:
@@ -453,9 +586,13 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
+  ejs: ^3.0.2
   express: ^4.17.1
   markdown-it: ^10.0.0
   markdown-it-container: ^2.0.0
   markdown-it-inline-comments: ^1.0.1
   markdown-it-mark: ^3.0.0
   markdown-it-smartarrows: ^1.0.1
+  node-add-to-calendar: ^1.0.2
+  path: ^0.12.7
+  serve-index: ^1.9.1
