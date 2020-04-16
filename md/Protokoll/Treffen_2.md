@@ -28,6 +28,7 @@ kurzes Stimmungsbild als Umfrage, mehr als 4 Stimmen erhielten:
 - Henriette
 - Ronny
 - Martin
+- Parima
 
 ## Text Adventure
 
