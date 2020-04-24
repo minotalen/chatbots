@@ -2,8 +2,9 @@
 
 ## Basics / wie man Texte zu dieser Seite beiträgt
 
-Zuerst benötigst du den Link zum bearbeiten dieser Seite, den findest du in den angepinnten Nachrichten in `#general` im Discord.  
+Zuerst benötigst du den Link zum bearbeiten dieser Seite, den findest du in den angepinnten Nachrichten in `#meetings` im Discord.  
 Wenn du den Link zum bearbeiten aufrufst solltest du auf der linken Seite eine Leiste mit Dateien sehen. Alle Texte liegen in dem `md` Ordner - klicke sie an um eine Vorschau zu erhalten, dann klick auf den `Markdown👁` Knopf in der oberen Leiste zum Bearbeiten. Du kannst zum Beispiel mal in die `howto.md` schauen um zu sehen, wie dieser Text formatiert ist.
+
 
 Markdown ist eine Syntax, um Text möglichst einfach formatieren zu können. Es ist **einfach zu lernen**, eine Anleitung findest du z.B. [hier](https://markdown.de). 
 Die Basics könnt ihr aber auch sehen, indem ihr dieses Dokument im Editor öffnet.
@@ -36,15 +37,23 @@ Zwei Zeilenumbrüche beginnen einen neuen Absatz. Mit zwei Gleichzeichen könnt 
 
 ```
 Codeblock geht so
+auch über mehrere Zeilen
 ```
 
-Smarte Pfeile: --> <-- <-->
+Smarte Pfeile: <-- < --> -->
 <!-- Kommentare lassen sich übrigens so einfügen (die Tastenkombination STRG+# funktioniert auch-->
 
 <!-- Kommentare 
 gehen auch
 
 über mehrere Zeilen -->
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ##### Überschriften mit Rauten (eine Raute ist die Größte, 6 die Kleinste)
 
 ### Bilder

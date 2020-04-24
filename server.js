@@ -39,9 +39,19 @@ app.get("/", (request, response) => {
   response.render('index');
 });
 
+// function getExtension(filename) {
+//     var i = filename.lastIndexOf('.');
+//     return (i < 0) ? '' : filename.substr(i);
+// }
+
+app.use(function(req, res, next) {
+  req.url = req.url.replace(".md","");
+  next();
+});
+
+app.use('/people/', express.static('/md/people'), serveIndex('md/people', {'icons': true}))
 
 app.use('/twine', express.static('views/twine'), serveIndex('views/twine', {'icons': true}))
-
 
 app.get("/twine/:name", (req, res) => {
   app.set('views', path.join(__dirname, 'views'));

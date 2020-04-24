@@ -34,6 +34,7 @@
 - [blog zu GPT](https://openai.com/blog/language-unsupervised/)
 - [guide](https://minimaxir.com/2019/09/howto-gpt2/)
 - [pip unter windows installieren](https://dev.scoutman.at/2014/04/python-pip-unter-windows-installieren/)
+- [Dokumentation](https://huggingface.co/transformers/installation.html)
 
 ## TL;DR
 

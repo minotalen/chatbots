@@ -58,6 +58,7 @@ if(window.location.pathname != "/"){
   url = url.split('/').join(': ') // / wird :
   url = url.split('_').join(' ')  // _ wird Leerzeichen
   url = url.replace('.md','');    // ersetzt Dateiendung
+  url = url.replace(/^\w/, c => c.toUpperCase()); //macht ersten titel uppercase
   // rendert Breadcrumb in der Titelleiste
   $('.crumbs').text(url)
 } else {
@@ -69,12 +70,8 @@ $('.theme-switch-wrapper').mousedown(function( event ) {
   event.preventDefault();
 });
 
-// let sizes = ["x-small", 
-//               "small", 
-//               "medium", 
-//               "large", 
-//               "x-large",
-//               "xx-large"];
+
+//// grow and shrink text
 
 let sizes = [  "50%", 
                "58%", 

@@ -6,17 +6,21 @@ hey hallo willkommen hoffe es gefällt :3 <3
 
 :::important  
 nächste Termine:  
-Fr 17.04. 11h mit Nina und Rainer
+Di 28.04. 11h Kleingruppen mit Nina  
+Fr 01.05 11h 
 :::  
 
 ### Aktuell
 
-[Twine](twine/)  
+[Profil erstellen!](/People/beispiel.md)
 
 ### Protokolle
 
 [erstes Treffen](Protokoll/Treffen_1)  
 [zweites Treffen](Protokoll/Treffen_2)
+[Treffen 3](Protokoll/Treffen_3)
+
+
 
 ### Ressourcen
 
@@ -27,7 +31,9 @@ Fr 17.04. 11h mit Nina und Rainer
 [SCRUM erklärt](Ressourcen/SCRUM)  
 
 [GPT2](Ressourcen/GPT-2)  
+[Work related to GPT-2 + IF](Ressourcen/relatedWork.md)  
 [interaktive Fiktion](IF/index)  
+[Twine](twine/)  
 
 
 ### beitragen
