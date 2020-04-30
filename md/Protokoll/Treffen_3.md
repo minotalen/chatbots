@@ -20,3 +20,4 @@
 - Kevin
 - Ronny
 - Jakob
+- Dinh

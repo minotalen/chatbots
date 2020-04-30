@@ -37,7 +37,7 @@ spezifische Fragestellungen:
   - GPT2 Test (also das neuronale Netz) -> Tobi, Kristin
   - Twine Protyp -> Kristin
   - Modding -> mon
-  - Python Chatbot & GPT2 -> Tobi, Max?
+  - Python Chatbot & GPT2 -> Tobi, Max, Dinh?
 ```
 <!--   - Github Grundlagen 
     -> wer's noch nicht kennt, mon ansprechen bei Fragen 

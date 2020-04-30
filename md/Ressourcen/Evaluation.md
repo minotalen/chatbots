@@ -1,0 +1,1 @@
+<a href="https://elearning.uni-bremen.de/sendfile.php?type=0&file_id=9fa608bf444f15a8392964c07b2dcd96&file_name=HCI-2019-12-19-part+8+-+Evaluation.pdf">Folien Evaluation (HCI Vorlesung)</a>, ab S. 39
