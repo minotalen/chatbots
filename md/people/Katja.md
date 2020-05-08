@@ -2,13 +2,15 @@
 
 ### Mai
 
-### April
+#### 
 
-#### 26.04.2020
-
-| Beschreibung |  Paper   |  Tickets |
+| Datum |  Beschreibung  |  Tickets |
 | ------------ | :------: | -------: |
-| x            | ~~none~~ | ~~none~~ |
+|    03.05.2020       | Python für Telegram: Bot erstellt für Prototyp  | ~~none~~ |
+|    04.05.2020       | Telegram Bot: Buttons eingebaut mittels MenuBuilderBot  | ~~none~~ |
+|    05.05.2020     | Design erstellt für WebAppPrototyp (Vorlage für CSS Datei). HTML Datei des Web App Prototyps angepasst zwecks Server Anbindung   | ~~none~~ |
+|    06.05.2020     | HTML, js Dateien weiter entwickelt, Ziel: Nachrichten an Server senden mittels Event, Nachricht im Chat Interface ausgeben   | ~~none~~ |
+|    07.05.2020     | HTML, js Dateien weiter entwickelt, Ziel: User Registrierung (User Name im Chat Interface eingeben und ausgeben lassen)   | ~~none~~ |
 
 # Paper
 

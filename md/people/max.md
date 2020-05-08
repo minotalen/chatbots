@@ -17,9 +17,10 @@ Was ich gemacht habe:
 |    4-8.4   | Chatbot Idee erarbeitet & Präsentation erstellt|
 | 9.4     | Idee vorgestellt |
 | 14-16.4 | Prototyp des Adventurebots mit Vine und Präsentation erstellt|
-|  20-23.4 | Spielkonzept und Interaktionen, sowie erstes Level erarbeitet (nicht implementiert)|
-|24.4 | Idee vorgestellt|
-
+|  20-24.4 | Spielkonzept und Interaktionen, sowie erstes Level erarbeitet (nicht implementiert)|
+|25.4 | Idee vorgestellt|
+|26.4-3.04 | Research : Intent Classification |
+| 4.04 | |
 
 
 

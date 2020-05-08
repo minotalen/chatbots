@@ -45,7 +45,7 @@ app.get("/", (request, response) => {
 // }
 
 app.use(function(req, res, next) {
-  req.url = req.url.replace(".md","");
+  // req.url = req.url.replace(".md","");
   next();
 });
 

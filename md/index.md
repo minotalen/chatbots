@@ -6,18 +6,17 @@ hey hallo willkommen hoffe es gefällt :3 <3
 
 :::important  
 nächste Termine:  
-Di 28.04. 11h Kleingruppen mit Nina  
-Fr 01.05 11h 
+Mo 03.05 11h 
 :::  
 
 ### Aktuell
 
-[Profil erstellen!](/People/beispiel.md)
+[Profil erstellen!](/people/beispiel.md)
 
 ### Protokolle
 
 [erstes Treffen](Protokoll/Treffen_1)  
-[zweites Treffen](Protokoll/Treffen_2)
+[zweites Treffen](Protokoll/Treffen_2)  
 [Treffen 3](Protokoll/Treffen_3)
 
 
