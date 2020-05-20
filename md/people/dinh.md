@@ -38,3 +38,8 @@ Wir haben Jira vertraut gemacht un erste Sprint gestartet
 | Beschreibung                                                                                                  |Link                                                             |
 | --------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------- |
 |      Erstes Meeting mit Server Teams und haben über Server und Python Frameworks wie Django und Flask besprochen.     |                       |
+
+### 10.05.2020
+| Beschreibung                                                                                                  |Link                                                             |
+| --------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------- |
+|      Research: Ob Datenbank für unsere Projekt umsetzen könnte. Wenn ja, welche Datenbanken zu unserem Projekt passen sollen   |                       |

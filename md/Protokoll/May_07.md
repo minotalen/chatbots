@@ -2,7 +2,9 @@
 
 07.05.2020
 
--> Die Datei ggf. umbennen, da hier mittlerweile viel mehr drin steht
+<!-- -> Die Datei ggf. umbennen, da hier mittlerweile viel mehr drin steht
+habs nach datum benannt nun
+ -->
 
 ## Befehle
 
@@ -17,6 +19,7 @@
 | 6   | !open 'object'    | öffnet ein Objekt im Raum oder Inventar (door, chest, matryoshka)            |                     |
 | 7   | !current room     | gibt den derzeitigen Raum zurück in dem man sich befindet                    |                     |
 | 8   | !look around      | gibt weitere Informationen über den Raum aus                                 |                     |
+| 9   | !look at          | lässt einen ein Object oder Ort in einem Raum näher betrachten               |                     |
 
 ## JSON
 

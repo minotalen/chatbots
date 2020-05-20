@@ -19,8 +19,10 @@ Was ich gemacht habe:
 | 14-16.4 | Prototyp des Adventurebots mit Vine und Präsentation erstellt|
 |  20-24.4 | Spielkonzept und Interaktionen, sowie erstes Level erarbeitet (nicht implementiert)|
 |25.4 | Idee vorgestellt|
-|26.4-3.04 | Research : Intent Classification |
-| 4.04 | |
+|26.4-3.05 | Research : Intent Classification |
+| 4.05 | IC Vorgestellt|
+| 4.05 - 10| Server main miterstellt und answerbot codegerüst csv zugriff methode implementiert| 
+| 11.05 - 17. | Antworten werden jetzt zurückgegeben , datenbank evaluiert, meilensteine überarbeitet|
 
 
 
