@@ -4,6 +4,8 @@
 
 | Beschreibung                                                                                                                                                                                                                                                   |           Datum |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------: |
+||22.05.2020|
+| Nutzerstudie für dynamische Texte wurde ausgewertet. CSV Struktur wurde angefangen, Datenbank wird nur für den Spieler benutzt.                                                                                                                                |      20.05.2020 |
 | Großes Meeting diesmal ohne Nina. Wir haben abgestimmt nicht am Projekttag teilzunehmen. Der nächste Sprint wurde geplant und fokussiert sich auf das Spielkonzept das bereits grob heute geplant wurde. Zudem wurde eine neue intent classification getestet. |      18.05.2020 |
 | Nutzerstudie wurde einzeln mit weiteren Probanden durchgeführt. Ein Zwischenergebnis aller Gruppen wurde am Donnerstag vorgestellt. Die Intent Classification ist bereits im gange                                                                             | 14.05. + 15.05. |
 | Nutzerstudie wurde begonnen. Nach dem ersten Probanden vielen ein paar Probleme auf die behoben wurden für alle weiteren Probanden.                                                                                                                            |      13.05.2020 |

@@ -6,12 +6,11 @@ hey hallo willkommen hoffe es gefällt :3 <3
 
 :::important  
 nächste Termine:  
-Mo 03.05 11h 
 :::  
 
 ### Aktuell
 
-[Profil erstellen!](/people/beispiel.md)
+[Profil erstellen!](/people/beispiel)
 
 ### Protokolle
 
@@ -20,7 +19,8 @@ Mo 03.05 11h
 [Treffen 3](Protokoll/Treffen_3)    
 [07.05](Protokoll/May_07)    
 [Interface](Protokoll/interface)  
-
+  
+[Nutzerstudien](/Research/Nutzertests/index)
 
 
 ### Ressourcen

@@ -3,7 +3,8 @@ Stadtteile (werden durch Level freigeschaltet)
   - Zustände (rätsel lösen = false, Regal gesehen = true) Level (GW2) = Storyabschnitt
   - Introduction  
   - Description  
-  - Connections  
+  - Connections
+  - Items
   - Triggers (Eingabe -> Script, benötigter zustand) 
   
 PROBLEM EINGABE BEI RÄTSELMODUS
@@ -21,6 +22,7 @@ Spieler
 - Inventar (Iventar ausgeben, Items anschauen, Items benutzen(raum, zustand))
 - Handy vom professor
 - GPS (backtravelling zu alten Leveln)
+- Notizbuch
 
 
 Spielstände Speichern/Laden

@@ -1,41 +1,18 @@
-# Interface Design und Aufgaben
+# Interface Protokoll
+Bitte neue Inhalte immer am Anfang dieser Datei hinzufügen.
 
-## TODO Interface
+## 22.05. next steps
 
-- Buttons zur Eingabe: es funktionieren aktuell folgende Befehle, die als Buttons implementiert werden können (als JSON übermittelt): 
-  - go to start
-  - go to room
-  - current room 
-  - look around 
-  - go to right / left 
-  - use (...)
-- Modalfenster
-- Responsiveness für mobile Geräte
-- Raum und Level abhängig von Information in JSON setzen
-    - Wozu brauchen wir eine Levelanzeige, die permanent sichtbar ist?
+* input greyed out autocomplete
+* load room suggestions dynamically from json
+* item suggestions dynamically from inventory?
+* farbliche hervorhebung der interaktionsobjekte im text? wenn ja, wie genau
+* right/left arrow + tab to select?
+* bug: background of input div is transparent when screen height is low
+    * in general: mobile page optimization
 
 
-
-## Verschiedene Inputkonzepte
-
-1. Nur Texteingabe
-2. Texteingabe + Buttons
-   1. Buttons von Anfang an
-   2. Buttons nach Zeit ohne Aktion anzeigen
-   3. Buttons bei Gesprächen
-3. Texteingabe und Befehle im Format ~~/befehl oder~~ **!befehl**  
-4. Texteingabe + Nummerierte Textvorschläge im Chat, erreichbar durch Eintippen der Ziffer
-
-## Aufgaben Interface
-
-![Modal](https://cdn.dribbble.com/users/2631930/screenshots/6783941/driver-listing-page-new-design___1.png)  
-Einen Modal gestalten. Muss auf Knopfdruck öffnen und schließen. Muss Textfeld, checkbox und radio selector können.
-Der Modal sollte idealerweise ein Modul sein, also mit variablem Inhalt geladen werden können. (Da wir z.B. nicht nur für Settings sondern auch auch eine Hilfe mit dem gleichen Modal darstellen sollten.)
-
-Nachtrag Interface: da wir nur für 2 Zwecke diesen Modal brauchen (Einstellungen & Hilfe) haben wir beschlossen das Modal nicht modular zu machen sondern 2 statische Modals die nach Bedarf ein und ausgeblendet werden können.
-
-
-# notes may 19
+## 19.05. notes
 
 
 limit max suggestion amt, global setting
@@ -56,8 +33,7 @@ complete - suggestion ist vollständig und kann direkt abgesendet werden
     {name: 'open [object]'},
     {name: 'use [object]'},
     {name: 'inspect [object]'},
-    {name: 'give [object] '}, // two layers
-    {name: 'give [object] to [person]'},
+    {name: 'give [object] '},
     {name: 'go to [location]'},
     {name: 'talk to [person]'},
     {name: 'about [any]'},
@@ -79,9 +55,33 @@ complete - suggestion ist vollständig und kann direkt abgesendet werden
 farbliche hervorhebung von [object] in der preview - 4 typen, 4 farben
 `ghost` des [objekt] im inputfeld bis der user tippt
 
-incomplete funktioniert auch 2stufig  
+<!-- incomplete funktioniert auch 2stufig  
 give [object] to [person]
-
+-> brauchen wir nicht!
+-->
 
 zukunftsmusik:
 show history of last 3 incomp inputs on left arrow press
+
+## Verschiedene Inputkonzepte
+
+1. Nur Texteingabe
+2. Texteingabe + Buttons
+   1. Buttons von Anfang an
+   2. Buttons nach Zeit ohne Aktion anzeigen
+   3. Buttons bei Gesprächen
+3. Texteingabe und Befehle im Format ~~/befehl oder~~ **!befehl**  
+4. Texteingabe + Nummerierte Textvorschläge im Chat, erreichbar durch Eintippen der Ziffer
+
+## Aufgaben Interface
+
+![Modal](https://cdn.dribbble.com/users/2631930/screenshots/6783941/driver-listing-page-new-design___1.png)  
+Einen Modal gestalten. Muss auf Knopfdruck öffnen und schließen. Muss Textfeld, checkbox und radio selector können.
+Der Modal sollte idealerweise ein Modul sein, also mit variablem Inhalt geladen werden können. (Da wir z.B. nicht nur für Settings sondern auch auch eine Hilfe mit dem gleichen Modal darstellen sollten.)
+
+Nachtrag Interface: da wir nur für 2 Zwecke diesen Modal brauchen (Einstellungen & Hilfe) haben wir beschlossen das Modal nicht modular zu machen sondern 2 statische Modals die nach Bedarf ein und ausgeblendet werden können.
+
+
+
+
+

@@ -43,3 +43,18 @@ Wir haben Jira vertraut gemacht un erste Sprint gestartet
 | Beschreibung                                                                                                  |Link                                                             |
 | --------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------- |
 |      Research: Ob Datenbank für unsere Projekt umsetzen könnte. Wenn ja, welche Datenbanken zu unserem Projekt passen sollen   |                       |
+
+### 14.05.2020
+| Beschreibung                                                                                                  |Link                                                             |
+| --------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------- |
+|      Probanten: Verbinden mit Datenbank MongoDB und Server von MongoDB. Umsetzen Answerhandler.py mit Datenbank   |                       |
+
+## 18.05.2020
+| Beschreibung                                                                                                  |Link                                                             |
+| --------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------- |
+|      Gruppe meeting mit ServerGruppe: Über CSV und Datenbank Aufteilung und Struktur gesprochen   |                       |
+
+## 20.05.2020
+| Beschreibung                                                                                                  |Link                                                             |
+| --------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------- |
+|     Wir haben uns entschieden dafür dass nur die Info von User in Datenbank gepeichert werden   |                       |

@@ -10,3 +10,7 @@
 | Design Prototyp (Interface, Settings Menu, Suggestions/Buttons)                                                                                                 | 13.05.2020 |
 | Erste Nutzerstudie durchgeführt mit 2 verschiedenen Probanten / Arbeit aufgeteilt, sodass wir beide die Studien separat machen können                           | 14.05.2020 |
 | Nach weiteren Probanten gesucht und 2 weitere gefunden (geplante Studie am 16/17.05.20)                                                                         | 15.05.2020 |
+| Im Meeting Aufgaben verteilt, Story/Spielkonzept konkretisieren                                                                                                 | 18.05.2020 |
+| Mit der Gruppe für Spielkonzept getroffen und an Schauplätze für die ersten Level recherchiert                                                                  | 19.05.2020 |
+| Gemeinsam mit Cedric die Nutzerstudien ausgewertet                                                                                                              | 20.05.2020 |
+| Intro für das Spiel geschrieben                                                                                                                                 | 22.05.2020 |

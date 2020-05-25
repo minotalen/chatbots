@@ -12,7 +12,9 @@
 |    06.05.2020     | HTML, js Dateien weiter entwickelt, Ziel: Nachrichten an Server senden mittels Event, Nachricht im Chat Interface ausgeben   | ~~none~~ |
 |    07.05.2020     | HTML, js Dateien weiter entwickelt, Ziel: User Registrierung (User Name im Chat Interface eingeben und ausgeben lassen)   | ~~none~~ |
 |    09.05.2020     | Buttons fürs Chat Interface in verschiedenen Varianten designed  | ~~none~~ |
-|    15.05.2020     | Autocomplete Form mit aktuell benutzbaren Befehlen eingebaut  | ~~none~~ |
+|    15.05.2020     | Autocomplete Form mit aktuell benutzbaren Befehlen ausgetestet  | ~~none~~ |
+|    19.05.2020     | Spielkonzept weiter ausgebaut - Level Aufbau, grober Handlungsablauf  | ~~none~~ |
+|    22.05.2020     | Spielkonzept weiter ausgebaut - Items, Befehle, Level Schauplätze  | ~~none~~ |
 
 # Paper
 

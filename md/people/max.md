@@ -23,7 +23,7 @@ Was ich gemacht habe:
 | 4.05 | IC Vorgestellt|
 | 4.05 - 10| Server main miterstellt und answerbot codegerüst csv zugriff methode implementiert| 
 | 11.05 - 17. | Antworten werden jetzt zurückgegeben , datenbank evaluiert, meilensteine überarbeitet|
-
+| 18 - 24 5 | An Synonym und wordtyp analyse methoden gearbeitet und an spielkonzept ausarbeitung level 1|
 
 
 

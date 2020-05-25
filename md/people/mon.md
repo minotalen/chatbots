@@ -4,6 +4,16 @@
 
 ### Mai
 
+## 12.05
+Inferfacegruppe Pair programming
+
+## 18.05 + 19.05
+Design Prototyp: Arbeit an Autocomplete
+
+## 22.05
+Implementierung complete & incomplete suggestions
+
+
 ### April
 
 #### before 28. April

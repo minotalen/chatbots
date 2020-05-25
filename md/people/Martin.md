@@ -5,6 +5,8 @@
 | Beschreibung                                                                                                                                                                     |  Datum   | 
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | 
 | **Mai**| **05** |
+| Arbeiten an der Story. Details für Level 1 und Intro. Uni Server aufgesetzt | 22.05.2020 |
+| Ausarbeitung der generellen Story und Spannungskurve. Schauplätze rausgesucht | 19.05.2020 |
 | Flask-SocketIO Server erstellt und mit Client verbunden. | 05.05.2020 |
 | Node.js Web socket live chat App Prototyp erstellt, als Grundstein der Client-Server Kommunikation. |03.05.2020|
 | **April**| **04** |

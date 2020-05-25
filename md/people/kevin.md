@@ -33,3 +33,6 @@ Implementierung Suggestions Window
 
 ## 20.05.
 Implementierung Settings Window
+
+## 22.05.
+Fehlersuche .mjs: Warum funktionieren JS-Module mit der Endung .js auf Kristins PC nicht, aber mit der Endung .mjs schon?

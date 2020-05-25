@@ -1,10 +1,19 @@
+## Protokolle Studie  
+
+[Proband 1](/Research/Nutzertests/DynamischerText/proband1_test)  
+[Proband 2](/Research/Nutzertests/DynamischerText/proband2_testv2)  
+[Proband 3](/Research/Nutzertests/DynamischerText/proband3_testv2)  
+[Proband 4](/Research/Nutzertests/DynamischerText/proband4_testv2)  
+[Proband 5](/Research/Nutzertests/DynamischerText/proband5_testv2)  
+[Proband 6](/Research/Nutzertests/DynamischerText/proband6_testv2)  
+
 ## Auswertung der Tests
 
-Besonders auffälig war bei den Tests, dass die Fragen und Antwortmöglichkeiten bei dem ersten Test (Steffi) oftmals nicht spezifisch genug waren. Es fehlten oft Antworten auf Fragen.
+Besonders auffällig war bei den Tests, dass die Fragen und Antwortmöglichkeiten bei dem ersten Test (Steffi) oftmals nicht spezifisch genug waren. Es fehlten oft Antworten auf Fragen.
 
 
 GPT2: Schwierigkeiten:
-Probanten fangen den Chat oft nur mit einem "hi" oder "hello" an. Da der GPT2 davon profitiert, dass er längere Texte in Verbindung setzt, hat dies oftmals für Probleme gesorgt.
+Probanden fangen den Chat oft nur mit einem "hi" oder "hello" an. Da der GPT2 davon profitiert, dass er längere Texte in Verbindung setzt, hat dies oftmals für Probleme gesorgt.
 
 
 Interview Ergebnisse:

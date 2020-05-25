@@ -10,6 +10,9 @@
 | geholfen bei programmierung von client.js datei                                                                                                                 | 06.05.2020 |
 | Besprechung Interface Gruppe: Neues Design, Farbschema, Header Design, Settings Menu                                                                            | 12.05.2020 |
 | Design Prototyp (Interface, Settings Menu, Suggestions/Buttons)                                                                                                 | 13.05.2020 |
+| Suggestions/ Autocomplete Fenster implementierung                                                                                                               | 18.05.2020 |
+| Suggestions/ Autocomplete Fenster implementierung                                                                                                               | 19.05.2020 |
+| Settings Fenster implementierung/ Design                                                                                                                        | 20.05.2020 |
 
 
 
