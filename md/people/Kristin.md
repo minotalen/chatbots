@@ -28,5 +28,12 @@
 | Ich habe heute den code für den answerhandler strukturiert und vorgeschrieben. Max hat ihn danach in richtiges Python übersetzt. Dann habe ich die readme mit Informationen zur rooms.csv ergänzt.|8. Mai||
 | Ich habe mit Cedric und Max den answerhandler ausgebaut, sodass er json entpackt, die antwort auswertet und eine wieder zurück schickt. Das funktioniert jedoch noch nicht auf dem Server.|11.Mai||
 | Der Answerhandler funktioniert jetzt auch auf dem server. Ich habe die Main.py so ergänzt dass nach der Namenseingabe das Tutorial angezeigt wird. Es kann also nun gespielt werden.|12.Mai||
-| |18.-22. Mai||
+| Auf der Suche danach wie wir die Intentions am besten erkennen können. Zuerst haben wir monkeylearn eingerichtet und implementiert. Das funktionierte super ist jedoch wegen gezwungenem Abo nicht möglich. Danach haben ich mich mit Max mit NLTK beschäftigt, dass so viele Language-Processing anbot, sodass wir einen eigenen classifier erstellt haben|18.-22. Mai||
+| Montag: Umstrukturierung der CSV in eine JSON mit Cedric. Rest der Woche: Weisheitszahn-OP und dadurch nur nebenbei bei JSON geholfen. |25. - 29.||
+
+### Juni
+| Beschreibung                                                                                                                                                                     |  Datum   |  Tickets |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | -------: |
+| Besprechung mit dem Team und Sprintplanung. Weitere Besprechung mit Cedric wie die Zustände bearbeitet werden. |2. Mai||
+| Erstellung des riddle modes und alle zugehörigen Dateien. Rätsel funktionieren nun Extern. Es muss noch in das Programm eingearbeitet werden. |3. Mai||
 # Paper

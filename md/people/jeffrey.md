@@ -13,6 +13,8 @@
 | Suggestions/ Autocomplete Fenster implementierung                                                                                                               | 18.05.2020 |
 | Suggestions/ Autocomplete Fenster implementierung                                                                                                               | 19.05.2020 |
 | Settings Fenster implementierung/ Design                                                                                                                        | 20.05.2020 |
+| Suggestions ein und ausschalten in den settings                                                                                                                 | 26.05.2020 |
+| Settings menu bug fix, Settings Menu Style changes, suggestion setting bug fix                                                                                  | 27.05.2020 |
 
 
 

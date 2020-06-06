@@ -15,7 +15,8 @@
 |    15.05.2020     | Autocomplete Form mit aktuell benutzbaren Befehlen ausgetestet  | ~~none~~ |
 |    19.05.2020     | Spielkonzept weiter ausgebaut - Level Aufbau, grober Handlungsablauf  | ~~none~~ |
 |    22.05.2020     | Spielkonzept weiter ausgebaut - Items, Befehle, Level Schauplätze  | ~~none~~ |
-
+|    26.05.2020     | Spielkonzept Level 1 inhaltlich ausgearbeitet, Inhalte vom Docs in Glitch Seiten übertragen für bessere Übersicht | ~~none~~ |
+|    04.06.2020     | Test Ergebnisse Proband ausgewertet | ~~none~~ |
 # Paper
 
 | Name                                                                    |                            Link                             | geeignet fürs Projekt (ja/nein) |

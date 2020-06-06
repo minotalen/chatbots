@@ -13,6 +13,13 @@ var md = new MarkdownIt({ html: true }).use(
 md = md.use(require('markdown-it-mark'));
 md = md.use(require('markdown-it-container'), 'important');
 md = md.use(require('markdown-it-smartarrows'));
+const opts = {
+  permalink: false,
+  permalinkClass: 'header-anchor',
+  permalinkSymbol: '¶',
+  permalinkBefore: false
+};
+md = md.use(require('markdown-it-anchor'), opts)
 
 const templatePath = './views/index.html';
 

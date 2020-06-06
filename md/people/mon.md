@@ -13,6 +13,14 @@ Design Prototyp: Arbeit an Autocomplete
 ## 22.05
 Implementierung complete & incomplete suggestions
 
+## 25.05
+Implementierung Dark Toggle und Settings save
+
+## 26.05
+server nltk strugggggle + glitch setup und guide für leveldesigner
+
+## 28.05
+glitch pflege
 
 ### April
 

@@ -1,27 +1,25 @@
 [Kommentare]: <> (
-hey hallo willkommen hoffe es gefällt :3 <3 
+beep boop cleanup time
 )
 
 # Chatbot Projekt
 
 :::important  
 nächste Termine:  
+immer Montags und Donnerstag 11h  
+[Meilensteine](Orga/TimelineMeilensteine) Halbzeit in 10 Tagen
 :::  
+
+[persönliche Notizen](People)
 
 ### Aktuell
 
-[Profil erstellen!](/people/beispiel)
-
-### Protokolle
-
-[erstes Treffen](Protokoll/Treffen_1)  
-[zweites Treffen](Protokoll/Treffen_2)  
-[Treffen 3](Protokoll/Treffen_3)    
-[07.05](Protokoll/May_07)    
-[Interface](Protokoll/interface)  
-  
-[Nutzerstudien](/Research/Nutzertests/index)
-
+Selbsteinschätzung schreiben:
+* was habt ihr gemacht
+* wie bewertet ihr eure eigene Arbeit
+[Level Skript](Levelinhalte/00LevelUebersicht)  
+[Game Features](Orga/GameFeatures)  
+[GPT-2 Implementierung](Orga/gpt2_implementierung.md)  
 
 ### Ressourcen
 
@@ -40,3 +38,15 @@ nächste Termine:
 ### beitragen
 
 [dieses Dokument bearbeiten](howto)
+
+
+
+### Protokolle
+
+[erstes Treffen](Protokoll/Treffen_1)  
+[zweites Treffen](Protokoll/Treffen_2)  
+[Treffen 3](Protokoll/Treffen_3)    
+[07.05](Protokoll/May_07)    
+[Interface](Protokoll/interface)  
+  
+[Nutzerstudien](/Research/Nutzertests/index)

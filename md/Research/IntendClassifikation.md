@@ -3,7 +3,7 @@
 Meine Definition und Umsetzungsidee ////
 
 W = Menge der (engl.) Wörter
-I = Menge von Intents inkl. immer den leearen Intent bzw. sozusagen nicht zuzuordnen
+I = Menge von Intents inkl. immer den leeren Intent bzw. sozusagen nicht zuzuordnen
 
 w<sup>x</sup> -> i
 
